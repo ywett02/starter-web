@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jason Taylow jason@git.training @awesomejt
 
 # THANKS
 
