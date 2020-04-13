@@ -19,4 +19,4 @@ Please fork this repository and then issue pull request.
 
 ###Copyright
 
-2014 Git.Traning
+2014 Git.Traning. All rights reserved.
